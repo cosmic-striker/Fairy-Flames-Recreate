@@ -1,0 +1,12 @@
+{
+    "interface": "eth0",
+    "rate_limit": 100,
+    "max_fairy_managers": 2,
+    "max_fairy_workers_per_manager": 4,
+    "logging_enabled": true,
+    "gui_enabled": true,
+    "cli_enabled": true,
+    "alert_threshold": 5,
+    "db_path": "data/logs.db",
+    "rules_file": "data/rules.json"
+}
